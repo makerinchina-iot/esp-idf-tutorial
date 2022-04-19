@@ -21,4 +21,4 @@
 - [ ] ESP32开发-ESP-IDF-LVGL基本使用
 - [ ] ESP32开发-ESP-IDF-编码器基本使用
 - [ ] ESP32开发-ESP-IDF-LVGL中使用编码器
-- [ ] 
+- [ ] ...
