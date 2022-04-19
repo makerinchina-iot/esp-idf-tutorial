@@ -1,0 +1,16 @@
+menu "rgbledc components config"
+    config LED_RED_PIN
+        int "config LED RED pin"
+        range 0 34
+        default 27
+
+    config LED_GREEN_PIN
+        int "config LED GREEN pin"
+        range 0 34
+        default 14
+
+    config LED_BLUE_PIN
+        int "config LED BLUE pin"
+        range 0 34
+        default 12
+endmenu
