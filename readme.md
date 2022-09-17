@@ -4,7 +4,7 @@
 
 [MakerInChina-ESP32-ESP-IDF开发合集](https://www.bilibili.com/medialist/play/303686218?from=space&business=space_collection&business_id=100101&desc=0)
 
-#### ESP32编程笔记
+#### ESP32编程笔记 https://makerinchina.cn/categories/ESP32/
 
 ##### 1、点灯-基础入门
 
